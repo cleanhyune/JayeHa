@@ -14,4 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Skills
+<img src="https://img.shields.io/badge/#F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a>&nbsp 
+
+
   [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=JayeHa)](https://github.com/anuraghazra/github-readme-stats)
