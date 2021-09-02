@@ -1,30 +1,3 @@
-<!--
-### Hi there 👋
-
-**JayeHa/JayeHa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
-<!--
-Skills
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a>
-
-
-  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=JayeHa)](https://github.com/anuraghazra/github-readme-stats)
--->
-
-
 <h1 align="center">Hi 👋, I'm Jaye</h1>
 <h3 align="center">🐣 A junior frontend developer from Korea</h3>
 
@@ -45,8 +18,8 @@ Skills
 <a href="https://www.oracle.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jayeha&show_icons=true&locale=en&layout=compact" alt="jayeha" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jayeha&show_icons=true&locale=en" alt="jayeha" /></p>
+<!-- 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jayeha&show_icons=true&locale=en" alt="jayeha" /></p> -->
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jayeha&" alt="jayeha" /></p>
