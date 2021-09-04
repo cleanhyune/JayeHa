@@ -31,15 +31,15 @@
 
 <div align="center">
     
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jayeha)](https://github.com/jayeha/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jayeha&layout=compact)](https://github.com/jayeha/github-readme-stats)
     
 </div>
 
 
 
 
-<h3>Portfolio Website:</h3>
-<a></a>
+<!-- <h3>Portfolio Website:</h3>
+<a></a> -->
 
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jayeha&" alt="jayeha" /></p>
