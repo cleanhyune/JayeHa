@@ -32,7 +32,9 @@
 </p>
 
 <div align="center">
+    
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jayeha)](https://github.com/jayeha/github-readme-stats)
+    
 </div>
 
 
