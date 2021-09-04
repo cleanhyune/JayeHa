@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm Jaye</h1>
 <h3 align="center">🐣 저는 서울에 거주하는 주니어 프론트앤드 개발자입니다.</h3>
-<h3 align="center">💼 대신교육에서 프론트엔드 개발자로 근무하였습니다.</h3>
-<h3 align="center">📚 현재 JS와 CSS/SCSS, 리액트를 공부하고 있습니다.</h3>
-<h3 align="center">🌱 TS에 대해서도 보고 있어요 :)</h3>
-
+<ul>
+    <li align="center">💼 대신교육에서 프론트엔드 개발자로 근무하였습니다.</li>
+    <li align="center">📚 현재 JS와 CSS/SCSS, 리액트를 공부하고 있습니다.</li>
+    <li align="center">🌱 TS에 대해서도 보고 있어요 :)</li>
+</ul>
 
 
 <h3 align="left">Languages and Tools:</h3>
