@@ -38,8 +38,8 @@
 
 
 
-<h3>Portfolio Website:</h3>
-<a href="https://jayeha.github.io/portfolio/">https://jayeha.github.io/portfolio/</a>
+<h3>Portfolio Website: <a href="https://jayeha.github.io/portfolio/">https://jayeha.github.io/portfolio/</a></h3>
+
 
 <br>
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jayeha&" alt="jayeha" /></p>
