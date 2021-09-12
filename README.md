@@ -38,12 +38,15 @@
 
 <h3>Portfolio Website:</h3>
 <a href="https://jayeha.github.io/portfolio/" align="center">
-    <center><img src="./project1.png" width="300px"></center>
-    <p>
-        포트폴리오 웹사이트로 이동 <br>
-        https://jayeha.github.io/portfolio/
-    </p>
-    
+
+<p align="center">
+  <img src="./project1.png" style="width:250px;padding: 0;margin:0;">
+</p>
+
+<p align="center" style="color:gray">
+포트폴리오 웹사이트로 이동<br>
+https://jayeha.github.io/portfolio/
+</p>    
 </a>
 
 
