@@ -36,12 +36,16 @@
 </div>
 
 
-
-
-<h3>Portfolio Website: <a href="https://jayeha.github.io/portfolio/">https://jayeha.github.io/portfolio/</a></h3>
+<h3>Portfolio Website:</h3>
+<a href="https://jayeha.github.io/portfolio/" align="center">
+    <img src="./project1.png">
+    <p>
+        포트폴리오 웹사이트로 이동 <br>
+        https://jayeha.github.io/portfolio/
+    </p>
+    
+</a>
 
 
 <br>
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jayeha&" alt="jayeha" /></p>
-
-
